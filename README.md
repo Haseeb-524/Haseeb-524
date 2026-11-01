@@ -151,13 +151,19 @@ My main focus is **.NET full-stack development**, while I continue exploring **A
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haseeb-524&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Haseeb's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Haseeb-524&theme=tokyonight&hide_border=true" alt="Haseeb's GitHub streak" />
+
+  <!-- GitHub Contribution Streak -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-524&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Haseeb-524&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    height="180"
+  />
+
 </div>
 
 ---
@@ -176,11 +182,35 @@ My main focus is **.NET full-stack development**, while I continue exploring **A
 
 <div align="center">
 
-📧 **Email:** [arshadhaseeb901@gmail.com](mailto:arshadhaseeb901@gmail.com)  
-📱 **Phone:** [+92 322 4191171](tel:+923224191171)  
-🌐 **Portfolio:** [haseeb-portfolio-indol.vercel.app](https://haseeb-portfolio-indol.vercel.app/)  
-💼 **LinkedIn:** [Muhammad Haseeb Arshad](https://www.linkedin.com/in/muhammad-haseeb-arshad-2b3314295)  
-💻 **GitHub:** [Haseeb-524](https://github.com/Haseeb-524)
+  <p>
+    I'm always happy to connect with fellow developers,
+    discuss software engineering, and explore new opportunities.
+  </p>
+
+  <a href="https://haseeb-portfolio-indol.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-haseeb-arshad-2b3314295">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Haseeb-524">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:arshadhaseeb901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  **Muhammad Haseeb Arshad**  
+  Software Engineering Student | Full-Stack .NET Developer | AI Enthusiast
+
+  <br/>
+
+  📍 Pakistan
 
 </div>
 
