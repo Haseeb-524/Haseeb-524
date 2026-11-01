@@ -23,7 +23,7 @@
 
 ---
 
- <img src="banner.jpeg" alt="Muhammad Haseeb - Full Stack AI Engineer Banner" width="100%" />
+ <img src="banner.png" alt="Muhammad Haseeb - Full Stack AI Engineer Banner" width="100%" />
 
  ---
 
