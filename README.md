@@ -1,6 +1,7 @@
 <div align="center">
 <img src="banner.png" alt="Muhammad Haseeb - Full Stack AI Engineer Banner" width="100%" />
----
+
+  
 # Hi 👋, I'm Muhammad Haseeb Arshad
 
 ### Software Engineering Student | .NET Full-Stack Developer | AI & Automation Enthusiast
