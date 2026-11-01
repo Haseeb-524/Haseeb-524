@@ -23,6 +23,11 @@
 
 ---
 
+ <img src="banner.jpeg" alt="Muhammad Haseeb - Full Stack AI Engineer Banner" width="100%" />
+
+ ---
+
+
 ## 👨‍💻 About Me
 
 I'm a Software Engineering student at **Punjab University College of Information Technology (PUCIT)** with an interest in building reliable, useful, and user-friendly software. I enjoy working across the stack—from designing responsive interfaces and developing APIs to structuring databases and integrating intelligent features.
